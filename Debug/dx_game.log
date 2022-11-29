@@ -1,0 +1,160 @@
+﻿  dxlib_ext.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(11,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(20,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(20,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(20,17): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(20,12): warning C4244: '引数': 'const float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(28,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(28,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(28,14): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\dxlib_ext\dxlib_ext.cpp(28,10): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  battle_enemy.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  battle_player.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\battle_player.cpp(162,34): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  battle_ui.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\battle_ui.cpp(100,22): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\battle_ui.cpp(166,36): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  debug.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  enemy.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(302,70): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(308,39): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(804,4): warning C4809: switch 文に冗長な 'default' ラベルが存在します。可能な 'case' 条件はすべて記述されています
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(848,4): warning C4809: switch 文に冗長な 'default' ラベルが存在します。可能な 'case' 条件はすべて記述されています
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(892,4): warning C4809: switch 文に冗長な 'default' ラベルが存在します。可能な 'case' 条件はすべて記述されています
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\enemy.cpp(1156,4): warning C4809: switch 文に冗長な 'default' ラベルが存在します。可能な 'case' 条件はすべて記述されています
+  game_main.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  map.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  menu.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\menu.cpp(292,32): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  play.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\play.cpp(50,13): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  battle.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  sound.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  status.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(133,28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(137,27): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(145,28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(149,30): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(153,30): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(165,29): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(169,28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(177,29): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(186,28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\game\status.cpp(190,27): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+  title.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  tnl_font_texture.cpp
+  tnl_input.cpp
+  tnl_intersect.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,72): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,67): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,32): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.h(55,27): warning C4244: '引数': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.cpp(61,73): warning C4244: '引数': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.cpp(61,58): warning C4244: '引数': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.cpp(167,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_intersect.cpp(168,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  tnl_json.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_json.cpp(27,35): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_json.cpp(162,26): warning C4244: '初期化中': '__int64' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_json.cpp(163,34): warning C4244: '引数': '__int64' から 'size_t' への変換です。データが失われる可能性があります。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_json.cpp(163,23): warning C4244: '引数': '__int64' から 'size_t' への変換です。データが失われる可能性があります。
+  tnl_math.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_math.cpp(189,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_math.cpp(203,26): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_math.cpp(210,27): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  tnl_matrix.cpp
+  コードを生成中...
+  コンパイル中...
+  tnl_quaternion.cpp
+  tnl_seek_unit.cpp
+  tnl_util.cpp
+  tnl_vector.cpp
+  sys_main.cpp
+C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\program\library\tnl_input.h(2,1): warning C4005: 'DIRECTINPUT_VERSION': マクロが再定義されました。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxDataTypeWin.h(1268): message : 'DIRECTINPUT_VERSION' の以前の定義を確認してください
+  コードを生成中...
+  dx_game.vcxproj -> C:\Users\vantan\Documents\ゲーム制作\審査会1回目作品\Debug\dx_game.exe

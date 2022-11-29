@@ -1,0 +1,12 @@
+name,id,hp,color,r
+blueslime,0,200,2,20
+redslime,1,300,0,20
+redbird,2,400,0,20
+greenbird,3,360,1,20
+bluebird,4,460,2,20
+redmagician,5,450,0,40
+greenmagician,6,500,1,40
+bluemagician,7,550,2,40
+greenfairy,8,700,1,20
+bluefairy,9,650,2,20
+dragon,10,3000,0,70
